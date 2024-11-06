@@ -1,6 +1,6 @@
 ### Hi 👋🏻, I'm Ayman! 
 - 👨🏻‍💻 **Frontend developer** based in Morocco
-- 🔍 Exploring Web3 and Solana-based dApp development
+- 🔍 Focusing on Web3 technologies and dApp development on Solana blockchain
 
 <!-- For light icons: &theme=light -->
 ### 👨🏻‍💻 Techs and Tools
