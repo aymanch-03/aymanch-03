@@ -1,7 +1,7 @@
 ### Hi 👋🏻, I'm Ayman! 
-- 👨🏻‍💻 **Frontend developer** based in Morocco
-- 🌐 Focusing on Web3 technologies and dApps development on Solana blockchain
-- 📚 Currently learning **Rust** for developing Solana programs
+- 👨🏻‍💻 **Frontend Developer** based in Morocco.
+- 🌐 Focusing on Web3 technologies and dApps development on Solana blockchain.
+- 📚 Currently learning **Rust** for developing Solana programs.
 
 <!-- For light icons: &theme=light -->
 ### 👨🏻‍💻 Techs and Tools
